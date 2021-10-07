@@ -1,59 +1,72 @@
-Repüléstan Syllabus
+Sötét Varázslatok Kivédése
 ===================
+![logo](https://i.imgur.com/bn4ZNlr.png)
 
 |Tárgyadatok|Leírás|
 |------------|--------------|
-|__Tárgykód:__| *RXFRT022*|
-|__Tárgyfelelős:__| *Rolanda Hooch*|
-|__Kredit:__| *9000*|
-|__Féléves óraszám:__| *30+0+30*|
+|__Tárgykód:__| *SVK10*|
+|__Tárgyfelelős:__| *Perselus Piton*|
+|__Kredit:__| *8500*|
+|__Féléves óraszám:__| *20+10+10*|
 |__Tárgy típusa:__| *Kötelező*|
-|__Előfeltételek:__| *RXFRT018*|
+|__Előfeltételek:__| *SVK09*|
 |__Követelmény:__| *Kollokvium*|
 
 Leírás
 ----------
 
-A tanuló a félév végére megtanulja használni a seprűjét, annak felemelését, kézben tartását, rajta ülését és megfelelő használatát. A félév végén a tárgy Kollokviummal zárul, amely a vírusra való tekintettel online kerül lebonyolításra mindenki nappalijában.
-
-Továbbá amennyiben jól teljesít felvételt nyerhet a __quidditch__ csapatba. 
-
-Mert trabanton szállni élvezet. 
+A sötét varázslatok kivédése óra - mint ahogyan azt már a nevéből mindenki kitalálhatta - arra szolgál, hogy felvértezzük magunkat az átkok, rontások ellen és nem utolsó sorban visszatámadni is képesek legyünk. Egyike azoknak a tárgyaknak, amelyet minden varázslónak és boszorkánynak el kell sajátítania, és ami szerves részét képezi a varázstani alapismereteknek.
 
 ##### Megtanulják a félév során:
-* Használni seprűjüket
-* Felemelni a földről
-* Kézben tartani
-* Ülni rajta
-* Harcolni róla
+* Átok, rontás kivédése
+* Visszatámadása
+* megvédeni magukat a gonosz teremtményekkel, feketemágusokkal szemben
 
 A tárgy részletes tematikája
 -----------------------------
 
 __Oktató:__
-Rolanda Hooch
+Perselus Piton
 
 __Heti beosztás__
-1. Seprű felemelésének gyakorlása
-1. Seprűn földről elrugaszkodás
-1. Kis sebességgel repülés
-1. Seprűn labdajátékok
-1. Quidditch meccs a csoporton belül
-1. Emberméretű szalmazsákokkal harc seprűn ülve
+1. Alapok elsajátítása
+1. Átkokról, rontásokról, alacsony elméleti szinten megismerkedni.
+1. Sötét mágia alapelvei. 
+1. Tanulunk majd dementorokról és vérfarkasokról
+1. Defenzív mágiával való foglalkozás
+1. Elsajátítjuk a pajzsbűbájokat, az átkokat és ellenátkokat
 1. Vizsga
 
 __Dolgozat:__
-* __91-92:__ *elégtelen*
-* __93-94:__ *elégséges*
-* __95-96:__ *közepes*
-* __97-98:__ *jó*
-* __99-100:__ *jeles*
 
-A dolgozat a vírusra való tekintettel __ONLINE__ formában lesz megtartva! 
+__Sikeres vizsga:___
 
-### Az egyetem weboldala
-[Roxfort](https://hu.wikipedia.org/wiki/Roxfort "Roxfort")
+*__K =__ *kiváló*
+*__V =__ *várakozáson felüli*
+*__E =__ *elfogadható*
+
+__Sikertelen vizsga:__
+
+*__H =__ *hitvány*
+*__B =__ *borzalmas*
+*__T =__ *troll*
+
+__A továbbtanulás:__
+
+Bár az itteni mesterképzésen nincs sötét varázslatok kivédése mint különálló tantárgy, jó pár szakirány alapját képezi, így nem árt komolyan venni – arról nem is szólva, milyen remekül jönnek az itt elsajátított ismeretek egy éles helyzetben vagy egy esetleges párbaj során.
+
+__Tankönyvek:__
+
+* Quentin Reskesh – A sötét erők – önvédelmi kalauz
+* Quentin Reskesh – A sötét erők – önvédelmi kalauz második kötet
+* Arsenius Jigger – A sötét varázslatok kivédése
+* Quentin Reskesh – A sötét erők – önvédelmi kalauz harmadik kötet
+* Wilbert Fushel – A defenzív mágia elmélete
+* Arsenius Jigger – A sötét varázslatok kivédése második kötet
+
+### A Varázslóképző Szakiskola weboldala
+[Roxfort](http://roxfortbesvkeposzkisk.hupont.hu/ "Roxfort")
 
 
 
-![Roxfort](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_Hogwart_with_motto.svg/1024px-Coat_of_arms_Hogwart_with_motto.svg.png "Roxfort")
+![Roxfort](https://lumos.gportal.hu/portal/lumos/image/gallery/1355884064_20.png "Tanterem")
