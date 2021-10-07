@@ -47,9 +47,9 @@ __Sikeres vizsga:___
 
 __Sikertelen vizsga:__
 
-*__H =__ *hitvány*
-*__B =__ *borzalmas*
-*__T =__ *troll*
+* __H =__ *hitvány*
+* __B =__ *borzalmas*
+* __T =__ *troll*
 
 __A továbbtanulás:__
 
