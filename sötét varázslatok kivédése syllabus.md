@@ -41,9 +41,9 @@ __Dolgozat:__
 
 __Sikeres vizsga:___
 
-*__K =__ *kiváló*
-*__V =__ *várakozáson felüli*
-*__E =__ *elfogadható*
+* __K =__ *kiváló*
+* __V =__ *várakozáson felüli*
+* __E =__ *elfogadható*
 
 __Sikertelen vizsga:__
 
