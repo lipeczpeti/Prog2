@@ -65,7 +65,7 @@ __Tankönyvek:__
 * Arsenius Jigger – A sötét varázslatok kivédése második kötet
 
 ### A Varázslóképző Szakiskola weboldala
-[Roxfort](http://roxfortbesvkeposzkisk.hupont.hu/ "Roxfort")
+[Roxfort](http://roxfortbesvkeposzkisk.hupont.hu/ "Roxfort weboldal")
 
 
 
